@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TacoBellAPI", "TacoBellAPI\TacoBellAPI.csproj", "{43DAA93F-18ED-4640-8D2C-15AAAE747DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DAA93F-18ED-4640-8D2C-15AAAE747DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DAA93F-18ED-4640-8D2C-15AAAE747DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DAA93F-18ED-4640-8D2C-15AAAE747DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DAA93F-18ED-4640-8D2C-15AAAE747DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42653AD-6D33-413A-8393-90D7FA057157}
+	EndGlobalSection
+EndGlobal
